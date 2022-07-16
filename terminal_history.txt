@@ -1,0 +1,576 @@
+   50  jupyter lab
+   51  conda deactivate
+   52  ls -al ~/.ssh
+   53  pbcopy < ~/.ssh/id_rsa.pub
+   54  ssh -T git@github.com
+   55  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/Python_Project/variable.py
+   56  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/Python_Project/variable.py
+   57  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+   58  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+   59  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+   60  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+   61  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+   62  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+   63  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+   64  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+   65  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+   66  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+   67  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+   68  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+   69  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+   70  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+   71  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+   72  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+   73  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+   74  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/01_Conditional_Statement/Unsolved/conditional_statement.py
+   75  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/01_Conditional_Statement/Unsolved/conditional_statement.py
+   76  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/01_Conditional_Statement/Unsolved/conditional_statement.py
+   77  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/01_Conditional_Statement/Unsolved/conditional_statement.py
+   78  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/01_Conditional_Statement/Unsolved/conditional_statement.py
+   79  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/01_Conditional_Statement/Unsolved/conditional_statement.py
+   80  /usr/bin/python3
+   81  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+   82  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+   83  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+   84  cd Python_Project
+   85  python hello_python.py
+   86  python hello_python.py
+   87  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+   88  python hello_python.py
+   89  python hello_python.py
+   90  python hello_python.py
+   91  python hello_python.py
+   92  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+   93  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+   94  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+   95  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Listing_Assets/Unsolved/listing_assets.py
+   96  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Listing_Assets/Unsolved/listing_assets.py
+   97  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Listing_Assets/Unsolved/listing_assets.py
+   98  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Listing_Assets/Unsolved/listing_assets.py
+   99  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Listing_Assets/Unsolved/listing_assets.py
+  100  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Listing_Assets/Unsolved/listing_assets.py
+  101  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Listing_Assets/Unsolved/listing_assets.py
+  102  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  103  cd ..
+  104  cd 03_The_401k_Shuffle
+  105  cd Unsolved
+  106  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  107  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  108  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  109  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  110  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  111  cd ..
+  112  cd ..
+  113  cd Python_Project
+  114  python variable.py
+  115  python variable.py
+  116  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/Python_Project/variable.py
+  117  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/Python_Project/variable.py
+  118  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/Python_Project/variable.py
+  119  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/Python_Project/variable.py
+  120  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech/Class_1_Activities/06_Stu_Working_with_Dictionaries/Unsolved/dictionaries.py
+  121  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech/Class_1_Activities/06_Stu_Working_with_Dictionaries/Unsolved/dictionaries.py
+  122  pwd
+  123  ls
+  124  cd Documents
+  125  pwd
+  126  ls
+  127  ls
+  128  mkdir
+  129  mkdir test-folder
+  130  ls
+  131  cd test-folder
+  132  ls
+  133  cd ..
+  134  cd ~
+  135  pwd
+  136  ls
+  137  cd Desktop
+  138  pwd
+  139  mkdir FinTech-Workspace
+  140  ls
+  141  cd ~
+  142  pwd
+  143  ls
+  144  cd Desktop
+  145  ls
+  146  cd FinTech-Workspace
+  147  ls
+  148  cd Python_Project
+  149  ls
+  150  conda activate dev
+  151  python --version
+  152  code .
+  153  code .
+  154  python hello_python.py
+  155  conda deactivate
+  156  conda activate dev
+  157  code .
+  158  conda deactivate
+  159  conda activate dev
+  160  ls
+  161  python variable.py
+  162  python variable.py
+  163  python variable.py
+  164  conda deactivate dev
+  165  conda deactivate
+  166  conda activate dev
+  167  python variable.py
+  168  python variable.py
+  169  python variable.py
+  170  python hello_variable_world.py
+  171  cd ..
+  172  cd 01_Hello_Variable_World
+  173  python hello_variable_world.py
+  174  cd Unsolved
+  175  python hello_variable_world.py
+  176  python hello_variable_world.py
+  177  python hello_variable_world.py
+  178  python hello_variable_world.py
+  179  python hello_variable_world.py
+  180  python hello_variable_world.py
+  181  cd ..
+  182  cd Python_Project
+  183  cd ..
+  184  cd Python_Project
+  185  python hello_python.py
+  186  print(tech_stocks)
+  187  print(tech_stocks)
+  188  python hello_python.py
+  189  cd ..
+  190  cd 02_Listing_Assets
+  191  python listing_assets.py
+  192  cd Unsolved
+  193  python listing_assets.py
+  194  python listing_assets.py
+  195  cd //
+  196  cd ..
+  197  cd Desktop
+  198  cd FinTech-Workspace
+  199  cd Desktop
+  200  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+  201  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+  202  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+  203  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/01_Conditional_Statement/Unsolved/conditional_statement.py
+  204  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/01_Conditional_Statement/Unsolved/conditional_statement.py
+  205  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  206  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  207  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  208  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  209  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  210  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  211  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  212  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  213  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  214  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  215  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  216  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  217  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  218  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  219  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  220  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  221  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  222  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  223  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  224  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  225  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  226  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  227  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  228  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  229  cd Desktop
+  230  cd FinTech-Workspace
+  231  cd Python Project
+  232  cd practice.py
+  233  python practice.py
+  234  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+  235  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+  236  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+  237  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+  238  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+  239  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+  240  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+  241  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+  242  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+  243  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+  244  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+  245  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  246  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  247  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  248  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  249  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  250  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  251  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  252  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  253  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Returned_Goods/Unsolved/returned_goods.py
+  254  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Returned_Goods/Unsolved/returned_goods.py
+  255  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Returned_Goods/Unsolved/returned_goods.py
+  256  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  257  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  258  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  259  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  260  cd Desktop
+  261  cd FinTech-Workspace
+  262  cd 02_Returned_Goods
+  263  python returned_goods.py
+  264  cd unsolved
+  265  python returned_goods.py
+  266  cd ..
+  267  cd ..
+  268  cd practice.py
+  269  python practice.py
+  270  python practice.py
+  271  python practice.py
+  272  python practice.py
+  273  cd Desktop
+  274  cd FinTech-Workspace
+  275  python practice.py
+  276  python practice.py
+  277  python practice.py
+  278  python practice.py
+  279  python practice.py
+  280  python practice.py
+  281  cd ..
+  282  cd FinTech-Workspace
+  283  cd 01_Racking_Up_The_Profit
+  284  python racking_up_the_profit.py
+  285  cd Unsolved
+  286  python racking_up_the_profit.py
+  287  python racking_up_the_profit.py
+  288  python racking_up_the_profit.py
+  289  cd ..
+  290  cd ..
+  291  python practice.py
+  292  python practice.py
+  293  python practice.py
+  294  python practice.py
+  295  python practice.py
+  296  python practice.py
+  297  python practice.py
+  298  python practice.py
+  299  python practice.py
+  300  python practice.py
+  301  python practice.py
+  302  python practice.py
+  303  python practice.py
+  304  python practice.py
+  305  python practice.py
+  306  python practice.py
+  307  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  308  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+  309  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+  310  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+  311  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+  312  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/practice.py
+  313  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  314  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  315  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  316  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  317  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  318  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  319  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  320  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  321  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  322  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  323  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  324  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  325  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  326  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  327  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  328  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  329  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  330  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  331  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  332  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  333  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  334  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  335  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  336  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  337  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  338  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  339  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  340  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  341  /usr/bin/python3
+  342  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  343  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  344  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  345  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  346  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  347  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  348  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  349  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  350  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  351  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  352  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  353  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  354  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  355  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  356  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  357  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  358  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  359  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  360  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  361  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  362  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved/dicts-01.py
+  363  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved/dicts-01.py
+  364  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved/dicts-01.py
+  365  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved/dicts-01.py
+  366  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  367  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  368  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  369  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  370  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved/dicts-01.py
+  371  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  372  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  373  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  374  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  375  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  376  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  377  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  378  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  379  cd desktop
+  380  cd fintech-workspace
+  381  python practice.py
+  382  python practice.py
+  383  python practice.py
+  384  python practice.py
+  385  python practice.py
+  386  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  387  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  388  /usr/bin/python3 /Users/mobiesage/Desktop/GitHub_Upload/Challenges/loan_analyzer.py
+  389  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech/M2Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/actions/make_withdrawal.py
+  390  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech/M2Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/actions/make_withdrawal.py
+  391  pip install
+  392  pip install questionary
+  393  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech/M2Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/actions/make_withdrawal.py
+  394  pip3 install questionary
+  395  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech/M2Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/actions/make_withdrawal.py
+  396  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech/M2Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/actions/make_withdrawal.py
+  397  conda activate dev
+  398  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech/M2Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/actions/make_withdrawal.py
+  399  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech/M2Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/actions/make_withdrawal.py
+  400  deactivate dev
+  401  conda deactivate
+  402  pip3 install questionary
+  403  cd Desktop
+  404  cd ..
+  405  cd FinTech-Workspace
+  406  cd 03_Stu_Create_Github_Repository
+  407  git clone
+  408  git clone https://github.com/drewpagnotta/ATM_application.git
+  409  lf
+  410  ls
+  411  cd ATM_application
+  412  ls
+  413  git status
+  414  git status
+  415  git add
+  416  git add .
+  417  git status
+  418  git status
+  419  git add
+  420  conda activate dev
+  421  pip -v
+  422  pip freeze
+  423  pip install fire
+  424  pip install questionary
+  425  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  426  printenv > /var/folders/fk/v25rhck54qj2np2q66p1xfvw0000gn/T/tmp-847fOoSFq5dYuiDtxt
+  427  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  428  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  429  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  430  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  431  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  432  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  433  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  434  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  435  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  436  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  437  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  438  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  439  python activate dev
+  440  conda activate dev
+  441  /usr/bin/python3 /Users/mobiesage/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  442  deactivate dev
+  443  conda deactivate
+  444  pwd
+  445  ls
+  446  cd Documents
+  447  mkdir Crypto
+  448  ls
+  449  cd Crypto
+  450  tocuh dintechfile.txt
+  451  touch fintech file.txt
+  452  ;s
+  453  ls
+  454  rm fintech
+  455  ls
+  456  rm file.txt
+  457  ls
+  458  cd ..
+  459  rm -r
+  460  ls
+  461  rm Crypto
+  462  cd Crypto
+  463  rm -r
+  464  ls
+  465  cd ..
+  466  rm -r Crypto
+  467  ls
+  468  cd ..
+  469  pip install fire
+  470  ls
+  471  cd DeskTOP
+  472  ls
+  473  cd FinTech-Workspace
+  474  ls
+  475  python cli.py
+  476  python cli.py
+  477  conda activate dev
+  478  python cli.py
+  479  python cli.py
+  480  conda deactivate
+  481  python cli.py
+  482  python cli.py
+  483  python cli.py
+  484  python cli.py
+  485  python cli.py
+  486  python cli.py --pants=True
+  487  cli.py
+  488  python cli.py
+  489  python cli.py --pants=True
+  490  ls
+  491  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  492  cd Unsolved
+  493  ls
+  494  python app.py
+  495  python app.py
+  496  python app.py
+  497  python app.py
+  498  python app.py
+  499  python app.py --credit_score=750
+  500  python app.py --credit_score=750
+  501  python app.py --credit_score=750
+  502  python app.py --credit_score=750
+  503  conda activate dev
+  504  jupyter
+  505  conda activate dev
+  506  conda list pandas
+  507  conda list jupyterlab
+  508  conda activate dev
+  509  conda list pandas
+  510  conda list jupyterlab
+  511  cd Desktop
+  512  cd FinTech-Workspace
+  513  cd 01_adding_fire_to_the_Loan_Qualifier_app
+  514  ls
+  515  cd Unsolved
+  516  python app.py
+  517  python app.py --credit_score=750
+  518  pip install questionary
+  519  cd Desktop
+  520  cd FinTech-Workspace
+  521  cd Python_Project
+  522  ls
+  523  python dialog.py
+  524  conda activate dev
+  525  python dialog.py
+  526  python dialog.py
+  527  python dialog.py
+  528  python dialog.py
+  529  python dialog.py
+  530  python dialog.py
+  531  python dialog.py
+  532  cd ..
+  533  cd 02_adding_qUESTionary_to_loan_Qualifier
+  534  cd unsolved
+  535  ls
+  536  python app.py --credit_score=750 --debt=5000 --income=20000
+  537  python app.py --credit_score=750 --debt=5000 --income=20000
+  538  python app.py
+  539  python app.py
+  540  python app.py
+  541  python app.py
+  542  conda deactivate
+  543  conda activate dev
+  544  /opt/anaconda3/envs/dev/bin/python
+  545  git config --global user.name drew pagnotta
+  546  git config --global user.email drewpagnotta@yahoo.com
+  547  git config --list
+  548  ls
+  549  cd Desktop
+  550  ls
+  551  cd FinTech
+  552  ls
+  553  cd ..
+  554  cd FinTech-Workspace
+  555  ls
+  556  cd Python Project
+  557  ls
+  558  ls
+  559  git clone https://github.com/drewpagnotta/practice_repo.git
+  560  pwd
+  561  cd practice_repo
+  562  git status
+  563  git add README.md
+  564  git status
+  565  touch additional.txt
+  566  ls
+  567  git status
+  568  git add additional.txt
+  569  git status
+  570  git commit -m "added a file to the folder for practice."
+  571  git status
+  572  git push
+  573  git push
+  574  ls
+  575  cd ..
+  576  cd practice_readme
+  577  ls
+  578  git clone https://github.com/drewpagnotta/practice_readme.git
+  579  conda activate dev
+  580  /opt/anaconda3/envs/dev/bin/python /Users/mobiesage/Desktop/FinTech-Workspace/01_Loan_Qualifier_Financial_Calculations/Solved/app.py
+  581  /opt/anaconda3/envs/dev/bin/python /Users/mobiesage/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Solved/app.py
+  582  /opt/anaconda3/envs/dev/bin/python /Users/mobiesage/Desktop/FinTech/Challenge_2/Starter_Code/loan_qualifier_app/app.py
+  583  /opt/anaconda3/envs/dev/bin/python /Users/mobiesage/Desktop/FinTech/Challenge_2/Starter_Code/loan_qualifier_app/app.py
+  584  conda activate dev
+  585  jupyter lab
+  586  import pandas as pd\n\ngoog_df = pd.DataFrame({"AAPL": [1045.85, 1070.08, 1140.99, 1113.65, 1193.32, 1231.54, 1215.00, 1207.15,1248.84, 1166.27, 1138.85, 1003.63, 1080.91]})\n\ngoog_df
+  587  conda activate dev
+  588  /opt/anaconda3/envs/dev/bin/python /Users/mobiesage/Desktop/FinTech/Challenge_2/Starter_Code/loan_qualifier_app/app.py
+  589  /opt/anaconda3/envs/dev/bin/python /Users/mobiesage/Desktop/FinTech/Challenge_2/Starter_Code/loan_qualifier_app/app.py
+  590  /opt/anaconda3/envs/dev/bin/python /Users/mobiesage/Desktop/FinTech/Challenge_2/Starter_Code/loan_qualifier_app/app.py
+  591  /opt/anaconda3/envs/dev/bin/python /Users/mobiesage/Desktop/FinTech/Challenge_2/Starter_Code/loan_qualifier_app/app.py
+  592  /opt/anaconda3/envs/dev/bin/python /Users/mobiesage/Desktop/FinTech/Challenge_2/Starter_Code/loan_qualifier_app/app.py
+  593  conda activate dev
+  594  /opt/anaconda3/envs/dev/bin/python /Users/mobiesage/Desktop/FinTech/Challenge_2/Starter_Code/loan_qualifier_app/app.py
+  595  /opt/anaconda3/envs/dev/bin/python /Users/mobiesage/Desktop/FinTech/Challenge_2/Starter_Code/loan_qualifier_app/app.py
+  596  conda activate dev
+  597  /opt/anaconda3/envs/dev/bin/python /Users/mobiesage/Desktop/FinTech/Challenge_2/Starter_Code/loan_qualifier_app/app.py
+  598  /opt/anaconda3/envs/dev/bin/python /Users/mobiesage/Desktop/FinTech/Challenge_2/Starter_Code/loan_qualifier_app/app.py
+  599  /opt/anaconda3/envs/dev/bin/python /Users/mobiesage/Desktop/FinTech/Challenge_2/Starter_Code/loan_qualifier_app/app.py
+  600  cd desktop
+  601  cd fintech
+  602  ls
+  603  cd challenge_2
+  604  python app.py
+  605  cd starter_code
+  606  ls
+  607  python app.py
+  608  cd loan_qualifier_app
+  609  ls
+  610  python app.py
+  611  cd Desktop
+  612  cd FinTech
+  613  ls
+  614  cd Challenge_2
+  615  ls
+  616  cd Starter_Code
+  617  ls
+  618  cd loan_qualifier_app
+  619  ls
+  620  ls
+  621  python app.py
+  622  python app.py
+  623  python app.py
+  624  python app.py
+  625  python app.py
