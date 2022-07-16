@@ -583,3 +583,30 @@
   632  python app.py
   633  python app.py
   634  history 50 > terminal_history.txt
+  635  history 50 > terminal_history.txt
+  636  python app.py
+  637  https://github.com/drewpagnotta/Challenge_2.git
+  638  git clone
+  639  https://github.com/drewpagnotta/Challenge_2.git
+  640  cd ..
+  641  cd ..
+  642  git clone
+  643  https://github.com/drewpagnotta/Challenge_2.git
+  644  git clone https://github.com/drewpagnotta/Challenge_2.git
+  645  git status
+  646  .git status
+  647  git status
+  648  git add README.md
+  649  cd Stater_Code
+  650  ls
+  651  cd Challenge_2
+  652  git status
+  653  git add README.md
+  654  ls
+  655  git status
+  656  git commit -m
+  657  git push
+  658  history 50 > terminal_history.txt
+  659  cd ..
+  660  cd Starter_Code
+  661  cd loan_qualifier_app
