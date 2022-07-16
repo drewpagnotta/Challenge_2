@@ -574,3 +574,12 @@
   623  python app.py
   624  python app.py
   625  python app.py
+  626  history 50 > terminal_history.txt
+  627  python app.py
+  628  python app.py
+  629  python app.py
+  630  python app.py
+  631  python app.py
+  632  python app.py
+  633  python app.py
+  634  history 50 > terminal_history.txt
